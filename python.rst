@@ -11,4 +11,4 @@ The **Python** tab on the dashboard provides a `Gradio Lite <https://www.gradio.
 .. image:: images/dashboard-python.png
 
 .. caution::
-   Your modifications are not saved between reloads! This playground is meant for prototyping -- consider using the :ref:`sdk` for larger projects.
+   Your modifications are not saved between reloads! This playground is meant for prototyping -- consider using the :doc:`sdk` for larger projects.

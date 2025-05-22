@@ -19,4 +19,4 @@ To create an API key, open your account settings to the 'API Keys' section, ente
    :scale: 50%
    :align: center
 
-This key can then be used with the :ref:`api` or :ref:`sdk`.
+This key can then be used with the :doc:`api` or :doc:`sdk`.

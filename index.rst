@@ -20,3 +20,4 @@ This documentation is meant to help you get started with the Pacuare `data platf
    python
    accounts
    api
+   sdk
