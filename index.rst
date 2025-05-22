@@ -10,7 +10,7 @@ Welcome to Pacuare Reserve!
 
 Welcome to the Pacuare Reserve developer documentation! Log into the dashboard `here <https://app.pacuare.dev>`_.
 
-This documentation is meant to help you get started with the Pacuare `data platform <https://app.pacuare.dev>`_. We recommend starting with the :ref:`SQL quickstart <sql>`, as it goes over some background information about the database and data structure. After that, feel free to get started experimenting with :ref:`Python <python>` or dive right into the :ref:`API`.
+This documentation is meant to help you get started with the Pacuare `data platform <https://app.pacuare.dev>`_. We recommend starting with the :doc:`SQL quickstart <sql>`, as it goes over some background information about the database and data structure. After that, feel free to get started experimenting with :doc:`Python <python>` or dive right into the :doc:`api`.
 
 .. toctree::
    :maxdepth: 2
