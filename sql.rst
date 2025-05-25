@@ -4,7 +4,9 @@ SQL Quickstart
 ##############
 
 When you first open the dashboard, you'll be greeted by a "Welcome to Pacuare Reserve!" screen (if you have full access, this screen will be skipped; this screen shows while restricted accounts' personal databases are being created), followed by the main screen.
-In the upper right corner of your screen will be a magnifying glass icon; click this to open the SQL query tool.
+In the upper right corner of your screen will be a magnifying glass icon; click this to open the SQL query tool. This window can be moved around your screen via the handle at the top, and can be closed by clicking on the magnifying glass again.
+
+.. image:: images/query-window.png
 
 This is the simplest way to query the database, and queries you enter here will be run directly on your copy of the database (if your access is restricted) or the database itself (if you have full access).
 
@@ -12,6 +14,8 @@ This is the simplest way to query the database, and queries you enter here will 
    See :doc:`accounts` for more information on access levels.
 
 Take a look at some :doc:`useful-queries` for inspiration. Try copying and running (one at a time) the statements under ``turtle_occurrences`` and **Unique Turtles** to show a list of unique turtles. The ``turtle_occurrences`` function is now stored in your personal database, and can be called again at any time.
+
+Once you run a query, you can download the results as a CSV via the button in the lower-right corner of the window.
 
 .. note::
    ``spanish_bool`` (also provided in that page) is also a very useful function to have around.
@@ -25,6 +29,9 @@ Augh! My database is broken!
 If you have a full-access account, this is a problem. Please contact an administrator.
 
 If you have a limited-access account, though, putting your data back in order is easy. Open your account settings with the gear icon in the upper-right corner.
+
+.. note::
+   This window, like the query tool, can also be moved and resized on yur screen.
 
 .. image:: images/account-settings.png
    :scale: 75%
