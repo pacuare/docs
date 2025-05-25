@@ -17,6 +17,7 @@ This documentation is meant to help you get started with the Pacuare `data platf
    :caption: Contents:
 
    sql
+   useful-queries
    python
    accounts
    api

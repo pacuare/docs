@@ -10,5 +10,6 @@ The public API (accessed using an :ref:`API key <api-keys>` in a Bearer authoriz
 
 ``/api/query`` allows you to query the database; it can be called using either a plain SQL request body or SQL with parameters encoded in JSON. Make sure to pass an ``Authorization: Bearer <api_key>`` header to authenticate.
 
-.. openapi:: openapi.yml
-   :examples:
+For the most up-to-date information, examples, and interactive documentation, please see the `API-hosted docs <https://api.pacuare.dev>`_.
+
+.. openapi:: openapi.json
