@@ -13,9 +13,12 @@ This is the simplest way to query the database, and queries you enter here will 
 .. note::
    See :doc:`accounts` for more information on access levels.
 
-Take a look at some :doc:`useful-queries` for inspiration. Try copying and running (one at a time) the statements under ``turtle_occurrences`` and **Unique Turtles** to show a list of unique turtles. The ``turtle_occurrences`` function is now stored in your personal database, and can be called again at any time.
+Take a look at some :doc:`useful-queries` for inspiration. Try copying and running the statement under ``unique_turtles`` to show a list of unique turtles. The ``unique_turtles`` view is now stored in your personal database, and can be queried with ``select * from unique_turtles``` at any time.
 
 Once you run a query, you can download the results as a CSV via the button in the lower-right corner of the window.
+
+.. note::
+   The ``Neon PostgreSQL tutorial <https://neon.tech/postgresql/tutorial>``_ is an easy way to get started with PostgreSQL, the database used by the Pacuare system.
 
 .. note::
    ``spanish_bool`` (also provided in that page) is also a very useful function to have around.
