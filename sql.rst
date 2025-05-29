@@ -13,7 +13,7 @@ This is the simplest way to query the database, and queries you enter here will 
 .. note::
    See :doc:`accounts` for more information on access levels.
 
-Take a look at some :doc:`useful-queries` for inspiration. Try copying and running the statement under ``unique_turtles`` to show a list of unique turtles. The ``unique_turtles`` view is now stored in your personal database, and can be queried with ``select * from unique_turtles``` at any time.
+Take a look at some :doc:`useful-queries` for inspiration. Try copying and running the statement under ``unique_turtles`` to show a list of unique turtles. The ``unique_turtles`` view is now stored in your personal database, and can be queried with ``select * from unique_turtles`` at any time.
 
 Once you run a query, you can download the results as a CSV via the button in the lower-right corner of the window.
 
