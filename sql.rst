@@ -17,7 +17,7 @@ If you're signed in, you can also run queries in the standalone query editor, em
 
 .. raw:: html
 
-   <iframe src="https://app.pacuare.dev/query" style="border: none; width: 100%"></iframe>
+   <iframe src="https://app.pacuare.dev/query" style="border: none; width: 100%; min-height: 300px; resize: vertical"></iframe>
 
 Take a look at some :doc:`useful-queries` for inspiration. Try copying and running the statement under ``unique_turtles`` to show a list of unique turtles. The ``unique_turtles`` view is now stored in your personal database, and can be queried with ``select * from unique_turtles`` at any time.
 
