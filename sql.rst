@@ -13,7 +13,7 @@ This is the simplest way to query the database, and queries you enter here will 
 .. note::
    See :doc:`accounts` for more information on access levels.
 
-If you're signed in, you can also run queries in the standalone query editor, embedded right here:
+If you're `signed in <https://app.pacuare.dev/login>`_, you can also run queries in the standalone query editor, embedded right here:
 
 .. raw:: html
 
