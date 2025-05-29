@@ -20,7 +20,7 @@ The public API (accessed using an :ref:`API key <api-keys>` in a Bearer authoriz
    </form>
 
 .. note::
-   Both ``query`` and ``query.csv`` also have ``/form`` sub-endpoints that take form data instead of JSON -- useful if you're trying to avoid JavaScript, or just keep things simple.
+   Both ``query`` and ``query.csv`` also have ``/form`` sub-endpoints that take form data instead of JSON -- useful if you're trying to avoid JavaScript, or just keep things simple. The form above, for example, uses the ``/query.csv/form`` endpoint.
 
 For the most up-to-date information, examples, and interactive documentation, please see the `API-hosted docs <https://api.pacuare.dev>`_.
 
