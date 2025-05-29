@@ -18,7 +18,7 @@ Take a look at some :doc:`useful-queries` for inspiration. Try copying and runni
 Once you run a query, you can download the results as a CSV via the button in the lower-right corner of the window.
 
 .. note::
-   The ``Neon PostgreSQL tutorial <https://neon.tech/postgresql/tutorial>``_ is an easy way to get started with PostgreSQL, the database used by the Pacuare system.
+   The `Neon PostgreSQL tutorial <https://neon.tech/postgresql/tutorial>`_ is an easy way to get started with PostgreSQL, the database used by the Pacuare system.
 
 .. note::
    ``spanish_bool`` (also provided in that page) is also a very useful function to have around.
