@@ -14,7 +14,7 @@ This documentation is meant to help you get started with the Pacuare `data platf
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
 
    sql
    useful-queries
@@ -23,3 +23,12 @@ This documentation is meant to help you get started with the Pacuare `data platf
    api
    sdk
    admin
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Links
+   :hidden:
+
+   Dashboard <https://app.pacuare.dev>
+   Admin Login <https://admin.pacuare.dev>
+   System Status <https://status.pacuare.dev>
