@@ -13,7 +13,8 @@ Query Tool
                hx-target="#query-result"
                hx-swap="innerHTML"
                hx-post="https://api.pacuare.dev/v1/query.html"
-               hx-ext="form-json">
+               hx-ext="form-json"
+               hx-request='{"credentials":true}'>
            <textarea name="query"></textarea>
            <button type="Submit" style="display: block">Query</button>
        </form>
