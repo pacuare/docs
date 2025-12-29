@@ -14,6 +14,16 @@ This documentation is meant to help you get started with the Pacuare `data platf
 
 .. toctree::
    :maxdepth: 2
+   :caption: Tools
+   :hidden:
+
+   login
+   query
+   account-settings
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Documentation
    :hidden:
 
    sql
@@ -29,6 +39,5 @@ This documentation is meant to help you get started with the Pacuare `data platf
    :caption: Links
    :hidden:
 
-   Dashboard <https://app.pacuare.dev>
    Admin Login <https://admin.pacuare.dev>
    System Status <https://status.pacuare.dev>
