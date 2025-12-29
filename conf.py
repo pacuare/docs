@@ -16,6 +16,7 @@ author = 'Aleks Rūtiņš'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.openapi',
+    'sphinx_design'
 ]
 
 templates_path = ['_templates']

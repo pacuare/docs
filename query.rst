@@ -16,7 +16,7 @@ Query Tool
                hx-ext="form-json"
                hx-request='{"credentials":true}'>
            <textarea name="query"></textarea>
-           <button type="Submit" style="display: block">Query</button>
+           <button type="Submit" class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-primary" style="display:block">Query</button>
        </form>
        <div id="query-result" style="overflow:auto; max-height: 75vh;"></div>
    </div>
