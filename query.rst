@@ -18,5 +18,5 @@ Query Tool
            <textarea name="query"></textarea>
            <button type="Submit" style="display: block">Query</button>
        </form>
-       <div id="query-result" style="overflow:auto; max-height: 1000px"></div>
+       <div id="query-result" style="overflow:auto; max-height: 75vh;"></div>
    </div>
