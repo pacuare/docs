@@ -20,3 +20,10 @@ Query Tool
        </form>
        <div id="query-result" style="overflow:auto; max-height: 75vh;"></div>
    </div>
+   <script>
+    document.addEventListener('htmx:load', () => {
+        const table = document.querySelector('#query-result table')
+        table.classList.add('docutils')
+        table.classList.add('align-default')
+    })
+   </script>
