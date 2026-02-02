@@ -1,12 +1,10 @@
 ---
 title: Pacuare Reserve
 nav:
-- Pacuare Reserve:
-  - index
-- Start Here:
-  - getting-started
-  - sql
-- Advanced:
-  - api
-  - sdk
-  
+  - Pacuare Reserve:
+      - index
+  - Start Here:
+      - sql
+  - Advanced:
+      - api
+      - sdk
